@@ -1,0 +1,13 @@
+D:\C#\БК Alex BET\БК Alex BET\bin\Debug\БК Alex BET.exe.config
+D:\C#\БК Alex BET\БК Alex BET\bin\Debug\БК Alex BET.exe
+D:\C#\БК Alex BET\БК Alex BET\bin\Debug\БК Alex BET.pdb
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК Alex BET.csprojAssemblyReference.cache
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК_Alex_BET.ModeForm.resources
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК_Alex_BET.OwnForm.resources
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК_Alex_BET.Properties.Resources.resources
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК Alex BET.csproj.GenerateResource.cache
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК Alex BET.csproj.CoreCompileInputs.cache
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК Alex BET.exe
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК Alex BET.pdb
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК_Alex_BET.LeagueForm.resources
+D:\C#\БК Alex BET\БК Alex BET\obj\Debug\БК_Alex_BET.CalendarForm.resources
